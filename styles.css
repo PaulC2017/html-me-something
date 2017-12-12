@@ -1,0 +1,57 @@
+.moveday {
+    
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+
+    color:green;   
+}
+
+#surprise {
+
+    color:red;
+    font-weight:bold;
+
+}
+ 
+p {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-right: 10px;
+    margin-left: 0px;
+    color:#008000;  /* green */
+}
+
+.headerstyle {
+    
+        font-family:Cursive;
+        color:336EFF;   /* blue */
+    
+    }
+
+ 
+
+a {
+   color:#008000;  /* green */
+
+}
+
+.footerstyle {
+ 
+    color:blue;  
+
+}
+ 
+strong {
+    font-family:Cursive;
+    color:blue
+}
+ 
+
+#smiley {
+
+    color:blue
+
+}
+
